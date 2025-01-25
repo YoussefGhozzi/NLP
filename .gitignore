@@ -1,0 +1,26 @@
+# Environnement virtuel
+.env
+venv/
+env/
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers spécifiques au projet
+data scrapping/
+docs/
+
+# Fichiers de dépendances
+requirements.txt
+requirement-Web-Site-important.txt
+
+# Fichiers IDE
+.idea/
+.vscode/
+*.swp 
