@@ -1,6 +1,6 @@
-# Nom de Votre Projet
+# NLP-Based SQL Chatbot with MySQL
 
-Description brève de votre projet.
+This project is an intelligent chatbot designed to understand and respond to user needs through natural language. It uses NLP to interpret user queries, then converts them into SQL requests using GPT-4 via the OpenAI API. The chatbot executes these queries on a MySQL database and returns the results to the user in a conversational format. The entire process—from understanding the user's intent to querying the database and displaying results—is seamlessly integrated into a Streamlit application. This enables users to interact intuitively with a database without any knowledge of SQL.
 
 ## Installation
 
