@@ -1,6 +1,6 @@
 # NLP-Based SQL Chatbot with MySQL
 
-This project is an intelligent chatbot designed to understand and respond to user needs through natural language. It uses NLP to interpret user queries, then converts them into SQL requests using GPT-4 via the OpenAI API. The chatbot executes these queries on a MySQL database and returns the results to the user in a conversational format. The entire process—from understanding the user's intent to querying the database and displaying results—is seamlessly integrated into a Streamlit application. This enables users to interact intuitively with a database without any knowledge of SQL.
+I'm excited to share a project I’ve been working on that bridges the power of LLMs and real-time database interactions! I developed a smart Streamlit application that allows users to interact with a MySQL database using natural language queries. Powered by LangChain, the Mixtral-8x7B model via Groq API, and enhanced with Plotly for data visualization, this app dynamically interprets user questions, generates SQL queries, fetches results, and visualizes the data. Whether it's asking for available medications, pharmacy schedules, or detailed business insights, the app transforms technical data into accessible answers—all through an intuitive chat interface. This project demonstrates how generative AI can simplify internal data access, optimize knowledge sharing, and empower non-technical users.
 
 ## Installation
 
